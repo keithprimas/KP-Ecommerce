@@ -17,7 +17,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/1AHKi9xLRjncORWpevGOao68aUrWHQ9Pf/view?usp=sharing
 
 ## Source Code 
 https://github.com/coding-boot-camp/fantastic-umbrella.git
